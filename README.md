@@ -1,2 +1,6 @@
-# playground
-Playground untuk eksperimen &amp; achievement GitHub
+# Playground
+
+Repo khusus eksperimen dan achievement GitHub.
+
+## Catatan
+- Baris pertama dari PR 1.
